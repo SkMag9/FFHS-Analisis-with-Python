@@ -1,6 +1,5 @@
 #
-#   Semesterarbeit AnPy - Abgabe 2
-#   Author: Sebastian Miszczuk
+#   Semesterarbeit AnPy - Abgabe 3
 #
 import numpy as np
 import matplotlib.pyplot as plt
